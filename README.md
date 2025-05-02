@@ -86,6 +86,12 @@ curl "http://localhost:3000/api/tvsearch?search=Game+of+Thrones"
 - 📭 400 Bad Request: If search is not provided.
 - ❓ 404 Not Found: If no results match the query.
 - 💥 500 Internal Server Error: If API call fails.
+- 
+## 🛠️ Setup
+
+Watching Following Video You Can Host This Api & Gain Some Knowledge 👇
+
+[![Watch the video](https://img.youtube.com/vi/jXFLL1gva4o/hqdefault.jpg)](https://youtu.be/jXFLL1gva4o)
 
 ## 📄 License
 
